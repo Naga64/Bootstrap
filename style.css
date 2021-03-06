@@ -1,0 +1,50 @@
+.logo{
+	color: purple!important;
+	font-weight: 900;
+	font-size: 35px;
+}
+
+.menu{
+	width: 40%;
+}
+.menu ul li a{
+	font-size: 18px;
+	font-weight: 600;
+}
+.menu ul li a:hover{
+	color: red;
+}
+.banner-area{
+	padding: 80px 0px;
+}
+.hey{
+	padding-top:20%;
+}
+
+.card img{
+	width: 20%;
+	align-self: center;
+}
+.card h5{
+	padding: 15px 0px;
+}
+.card{
+	padding: 35px 0px;
+}
+.services-area{
+	margin: 80px 0px;
+}
+.first{
+	border: solid 2px black;
+	padding: 50px;
+}
+.updates{
+	background-color: cyan;
+}
+.submit{
+	margin-top: 55px;
+}
+.lol{
+	border: solid 2px black;
+	padding: 20px;
+}
